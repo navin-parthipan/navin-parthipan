@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @navin-parthipan
-- 👨🏻‍🎓 Pre-final year B.Tech IT student in BIT
+- 👨🏻‍🎓 Final year B.Tech IT student in BIT (2020-2024)
 - 🌱 I’m currently learning Java & DSA.
 - 📫 How to reach me : www.linkedin.com/in/navinparthipan
 
